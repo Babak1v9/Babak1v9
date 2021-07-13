@@ -3,6 +3,7 @@
 </h1>
 
 ## Hey! 👋
+
 I'm Lukas, a 23 years software developer from Austria. 
 
 - :book: Student @ FH Technikum Wien (Computer Science) and TU Wien (Software Development)
