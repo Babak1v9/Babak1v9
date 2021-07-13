@@ -12,7 +12,7 @@
 				  100% {
 				    background-position: 0% 50%;
 				  }
-	
+				}
 				h1 {
 				  font-family: 'Inter',
 					-apple-system,
@@ -41,7 +41,7 @@
 				  animation: gradientText 3s ease infinite;
 				}
         		</style>
-            	<h1>Lukas Rittler</h1>
+            <h1><name>Lukas Rittler</name></h1>
 		</div>
 	</foreignObject>
 </svg>
