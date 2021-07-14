@@ -24,7 +24,7 @@ I'm Lukas, a 23 years old software developer from Austria.
 - :office: Software Architecture
 
 ## Most Used Languages
-[!](https://github-readme-stats.vercel.app/api/top-langs/?username=Babak1v9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babak1v9)]
 
 ## Contact
 - [@lukasr.98](https://www.instagram.com/lukasr.98/) on Instagram
