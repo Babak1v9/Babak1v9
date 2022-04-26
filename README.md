@@ -4,13 +4,15 @@
 
 ## Hey! 👋
 
-I'm Lukas, a 23 years old software developer from Austria. 
+I'm Lukas, a 24 years old software developer from Austria. 
 
-- :book: Student @ FH Technikum Wien (Computer Science) and TU Wien (Software Development)
+- :book: Master Student @ FH Technikum Wien (Software Development) 
 
-- 👥 Software developer @ Papyrus Software Europe AG
+- 👥 Software developer @ Insirion
 
 - :computer: Self-employed Wordpress Developer @ www.ritlance.at
+
+- :computer: Personal Website @ www.lukasrittler.at
 
 - 👨‍💻 All of my private projects are available here: [Lukas' Repositories](https://github.com/Babak1v9?tab=repositories)
 
