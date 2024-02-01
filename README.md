@@ -4,11 +4,11 @@
 
 ## Hey! 👋
 
-I'm Lukas, a 24 years old software developer from Austria. 
+I'm Lukas, a 25 years old software developer from Austria. 
 
 - :book: Master Student @ FH Technikum Wien (Software Development) 
 
-- 👥 Software developer @ Insirion
+- 👥 Software developer @ Accenture
 
 - :computer: Self-employed Wordpress Developer @ www.ritlance.at
 
